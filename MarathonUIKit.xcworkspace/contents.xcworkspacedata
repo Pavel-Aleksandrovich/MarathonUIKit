@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Task2_ThreeButtons/Task2_ThreeButtons.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Task1_GradientAndShadow/Task1_GradientAndShadow.xcodeproj">
    </FileRef>
 </Workspace>
